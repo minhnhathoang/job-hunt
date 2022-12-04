@@ -1,6 +1,6 @@
 object Versions {
     const val kotlin = "1.5.20"
-    const val gradle = "4.2.1"
+    const val gradle = "7.0.2"
     const val google = "4.3.8"
 
     const val buildTool = "30.0.3"
