@@ -8,10 +8,14 @@
 
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="background">#E5E5E5</color>
 
-    <color name="primary">#1E7BC5</color>
-    <color name="secondary">#3F51B5</color>
+    <color name="primary">#3F51B5</color>
+    <color name="secondary">#79797A</color>
+    <color name="tag_background">#e0f9ea</color>
     <color name="text">#2E2E2E</color>
     <color name="text_secondary">#707070</color>
+    <color name="text_tag">#00431b</color>
     <color name="card_background">#9F6A6A</color>
+
 </resources>
